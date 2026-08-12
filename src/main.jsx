@@ -186,7 +186,7 @@ function App() {
                 <p className="lead">I'm an enthusiastic Computer Science Engineering student focused on software development and application building, with a strong interest in creating practical and user-friendly digital experiences.</p>
                 <p>My project work spans web applications, APIs, data-backed experiences and UX-oriented interfaces. I enjoy understanding a problem first, then turning it into a clean flow that people can actually use.</p>
                 <div className="mini-stats">
-                  <div><strong>7.47</strong><span>CGPA</span></div>
+                  <div><strong>7.57</strong><span>CGPA</span></div>
                   <div><strong>3</strong><span>Featured projects</span></div>
                   <div><strong>3+</strong><span>Core development areas</span></div>
                 </div>
@@ -256,7 +256,7 @@ function App() {
               <div className="edu-card reveal">
                 <span className="edu-year">2022 — 2026</span>
                 <h3>B.E. Computer Science Engineering</h3>
-                <p>Kongu Engineering College</p><strong>CGPA: 7.47</strong>
+                <p>Kongu Engineering College</p><strong>CGPA: 7.57</strong>
               </div>
               <div className="edu-card reveal">
                 <span className="edu-year">2020 — 2021</span>
