@@ -5,7 +5,7 @@ A modern, responsive, ATS-friendly single-page portfolio built with React + Vite
 ## Resume-grounded content
 
 The portfolio uses the supplied resume as its source. It includes:
-- B.E. Computer Science Engineering — Kongu Engineering College — CGPA 7.47
+- B.E. Computer Science Engineering — Kongu Engineering College — CGPA 7.57
 - HSC 92.63% and SSLC 94.40%
 - Farmer App
 - Anonymous Message App
